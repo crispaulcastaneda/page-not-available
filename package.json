@@ -1,0 +1,24 @@
+{
+  "name": "glitch",
+  "version": "1.0.1",
+  "description": "404 and or for page not available",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crispaulcastaneda/page-not-available.git"
+  },
+  "keywords": [
+    "glitch",
+    "javascript",
+    "page"
+  ],
+  "author": "Cristian Paul Castaneda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/crispaulcastaneda/page-not-available/issues"
+  },
+  "homepage": "https://github.com/crispaulcastaneda/page-not-available#readme"
+}
