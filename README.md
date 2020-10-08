@@ -1,8 +1,6 @@
 # 404 Not Found
 Static webpage built to make a simple *Page Not Found*
 
-![404-IMG](https://github.com/crispaulcastaneda/page-not-available/issues/1#issue-716979371)
-
 ## Acknowledgement 👽
 A good snippet of code.
 
